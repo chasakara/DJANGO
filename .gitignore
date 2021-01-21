@@ -1,4 +1,5 @@
 core.Microsoft*
+* .sqlite
 core.mongo*
 core.python*
 env.py
